@@ -1,3 +1,9 @@
+# Part-1
+
+
+# Part-2
+
+
 # Part-3
 
 In the final data story, people at large are my audience. It seems to be wide but it should be because issue of food related to everyone. Every single person can do something to help. 
