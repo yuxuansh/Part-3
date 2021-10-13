@@ -1,8 +1,8 @@
 # Part-1
-
+https://yuxuansh.github.io/final_project_yuxuan.md/
 
 # Part-2
-
+https://yuxuansh.github.io/Final-Project-Wireframe/
 
 # Part-3
 
